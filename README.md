@@ -122,6 +122,7 @@ slooze-frontend/
 ├── package.json
 └── README.md
 
+
 ▶️ How to Run Locally
 npm install
 npm run dev
