@@ -121,4 +121,13 @@ This repository fulfills all mandatory requirements
 
 Optional features are implemented at UI level
 
+🚀 Frontend Project Completed – Role-Based Inventory System
+
+<img width="623" height="721" alt="{D037FABD-25E7-435C-BD80-92DD7C7A3529}" src="https://github.com/user-attachments/assets/e64bae95-7db3-4cbc-8945-207f1c5cb9fb" />
+<img width="696" height="487" alt="{DD28CF8B-119F-485E-8C7F-D3F3C4B93356}" src="https://github.com/user-attachments/assets/1f77c658-e178-4930-87a7-aca61b0e75e2" />
+<img width="712" height="608" alt="{39AA7EB3-3C98-4E52-B92B-40867E6524E2}" src="https://github.com/user-attachments/assets/185025ed-9db2-4ca1-bc46-d361cc9a04dd" />
+<img width="647" height="590" alt="{DD32F70C-7FF5-4EE5-B35E-D93F45D56573}" src="https://github.com/user-attachments/assets/f85cb3cc-1508-4b95-ad1e-8246a7480cd1" />
+
+
+
 
