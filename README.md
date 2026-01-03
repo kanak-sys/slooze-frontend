@@ -73,14 +73,6 @@ Restricted links hidden for unauthorized roles
 
 Route guards prevent manual URL access
 
-🔒 Role-Based Access Rules
-Feature	Manager	Store Keeper
-Login	✅	✅
-Dashboard	✅	❌
-View Products	✅	✅
-Add Products	✅	❌
-Role-Based UI	✅	✅
-🛠️ Assumptions & Mocked Implementations
 
 As permitted by the problem statement:
 
