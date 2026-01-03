@@ -121,6 +121,4 @@ This repository fulfills all mandatory requirements
 
 Optional features are implemented at UI level
 
-Backend behavior is intentionally mocked
 
-Project is ready for evaluation
