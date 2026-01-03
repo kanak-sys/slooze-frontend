@@ -94,33 +94,6 @@ Focus is on frontend logic, UI behavior, and access control
 
 All assumptions are clearly stated to align with evaluation expectations.
 
-📁 Project Structure
-slooze-frontend/
-│
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── ProtectedRoute.jsx
-│   │
-│   ├── pages/
-│   │   ├── Login.jsx
-│   │   ├── Dashboard.jsx
-│   │   ├── Products.jsx
-│   │   ├── AddProduct.jsx
-│   │
-│   ├── context/
-│   │   ├── AuthContext.jsx
-│   │   ├── ThemeContext.jsx
-│   │
-│   ├── data/
-│   │   └── products.js
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── package.json
-└── README.md
 
 
 ▶️ How to Run Locally
